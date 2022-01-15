@@ -1,2 +1,3 @@
-# This is another repoo
-adding next line
+# This is a demo repository 
+in this repository I am just going to introduce my self
+As you can find my CV and a lot of stuff here.
